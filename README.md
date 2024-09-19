@@ -1,3 +1,7 @@
+# 20240919 提醒：下载代码后请将License.txt文件删掉，否则会影响代码运行。
+
+# 20240919 Note: After downloading the code, delete the License.txt file; otherwise, the running will be affected.
+
 # 基于MATLAB实现EIS数据的批量DRT变换处理
 
 [实操演示视频](https://member.bilibili.com/platform/upload-manager/article)
